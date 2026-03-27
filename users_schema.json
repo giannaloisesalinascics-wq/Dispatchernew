@@ -1,0 +1,15 @@
+[
+  "id",
+  "auth_user_id",
+  "first_name",
+  "last_name",
+  "phone",
+  "address",
+  "barangay",
+  "municipality",
+  "province",
+  "profile_photo_key",
+  "role",
+  "created_at",
+  "updated_at"
+]

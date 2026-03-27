@@ -1,0 +1,62 @@
+[
+  {
+    "id": "da000001-0000-0000-0000-000000000001",
+    "disaster_id": "d3000001-0000-0000-0000-000000000001",
+    "reported_by": "a0000000-0000-0000-0000-000000000004",
+    "title": "Rooftop Rescue Needed in Tondo",
+    "content": "Multiple families stranded on rooftops along Reina Regente St. Water level at 2nd floor.",
+    "severity": "critical",
+    "location": "Reina Regente St, Tondo, Manila",
+    "attachment_keys": [],
+    "status": "actioned",
+    "created_at": "2026-03-12T15:53:45.987528+00:00"
+  },
+  {
+    "id": "da000001-0000-0000-0000-000000000002",
+    "disaster_id": "d3000001-0000-0000-0000-000000000001",
+    "reported_by": "a0000000-0000-0000-0000-000000000005",
+    "title": "Elderly Residents Isolated in Pandacan",
+    "content": "Around 20 elderly residents unable to evacuate due to floodwaters blocking main road.",
+    "severity": "high",
+    "location": "Pandacan, Manila",
+    "attachment_keys": [],
+    "status": "reviewed",
+    "created_at": "2026-03-12T15:53:45.987528+00:00"
+  },
+  {
+    "id": "da000001-0000-0000-0000-000000000003",
+    "disaster_id": "d3000001-0000-0000-0000-000000000005",
+    "reported_by": "a0000000-0000-0000-0000-000000000004",
+    "title": "Bridge Collapse Risk in Cauayan",
+    "content": "Wooden bridge on Maharlika Highway showing signs of structural failure due to floodwaters.",
+    "severity": "critical",
+    "location": "Maharlika Highway, Cauayan, Isabela",
+    "attachment_keys": [],
+    "status": "pending",
+    "created_at": "2026-03-12T15:53:45.987528+00:00"
+  },
+  {
+    "id": "da000001-0000-0000-0000-000000000004",
+    "disaster_id": "d3000001-0000-0000-0000-000000000005",
+    "reported_by": "a0000000-0000-0000-0000-000000000005",
+    "title": "Food Shortage at ISU Gymnasium",
+    "content": "Evacuees at ISU Gymnasium have not received food for 24 hours. Estimate 980 affected.",
+    "severity": "high",
+    "location": "ISU Gym, Cauayan, Isabela",
+    "attachment_keys": [],
+    "status": "actioned",
+    "created_at": "2026-03-12T15:53:45.987528+00:00"
+  },
+  {
+    "id": "da000001-0000-0000-0000-000000000005",
+    "disaster_id": "d3000001-0000-0000-0000-000000000003",
+    "reported_by": "a0000000-0000-0000-0000-000000000004",
+    "title": "Stranded Residents in Marikina Valley",
+    "content": "Approximately 50 households stranded in Marikina Valley subdivision. Boats needed.",
+    "severity": "high",
+    "location": "Marikina Valley Subd., Marikina",
+    "attachment_keys": [],
+    "status": "closed",
+    "created_at": "2026-03-12T15:53:45.987528+00:00"
+  }
+]
